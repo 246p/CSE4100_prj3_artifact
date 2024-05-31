@@ -2,7 +2,7 @@
 # 0 : show 1: buy 2: sell 3: rand
 
 ## Client 수에 따른 시간당 처리율
-
+## Request type (show, sell, buy, random)에 따른 처리율 차이
 rm log.txt
 for option in 0
 do
